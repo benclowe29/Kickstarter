@@ -1,2 +1,2 @@
 # Kickstarter Campaign Sucess
-Utilizing Deep Learning and NLP to predict Kickstarter campaign success
+Utilizing Deep Learning, NLP, and various classification models to predict Kickstarter campaign success
